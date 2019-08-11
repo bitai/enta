@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on ENTA | エンジニアの目標を達成しよう</title>
-    <link>www.example.com/tags/</link>
+    <link>https://bitai.github.io/enta/public/tags/</link>
     <description>Recent content in Tags on ENTA | エンジニアの目標を達成しよう</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     
-	<atom:link href="www.example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bitai.github.io/enta/public/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

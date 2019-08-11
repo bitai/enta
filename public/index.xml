@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on ENTA | エンジニアの目標を達成しよう</title>
-    <link>www.example.com/</link>
+    <link>https://bitai.github.io/enta/public/</link>
     <description>Recent content in Home on ENTA | エンジニアの目標を達成しよう</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Wed, 28 Nov 2018 15:15:34 +1000</lastBuildDate>
     
-	<atom:link href="www.example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bitai.github.io/enta/public/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Tomoya Shirai</title>
-      <link>www.example.com/team/peter-van-eijk/</link>
+      <link>https://bitai.github.io/enta/public/team/peter-van-eijk/</link>
       <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
       
-      <guid>www.example.com/team/peter-van-eijk/</guid>
+      <guid>https://bitai.github.io/enta/public/team/peter-van-eijk/</guid>
       <description>株式会社スタック＆ソリューションズ代表取締役。横浜国立大学工学部にて情報工学を専攻後、独立。フリーランスとしてうるるやfreee、homesなどの有名ベンチャーでのプロジェクトに従事する傍ら、クラウドワーカーとして各種クラウドソーシングで活動し、2016年、会員数100万人を超えるクラウドワークスで最も実績のある100名のワーカーに選出。2017年、「誰もが高度な技術で問題解決ができる社会を実現する」ためにスタック＆ソリューションズを起業。</description>
     </item>
     
     <item>
       <title>オンボーディング</title>
-      <link>www.example.com/services/mergers/</link>
+      <link>https://bitai.github.io/enta/public/services/mergers/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
       
-      <guid>www.example.com/services/mergers/</guid>
+      <guid>https://bitai.github.io/enta/public/services/mergers/</guid>
       <description>ENTAのメンタリングサービスに申し込むと、最初にSlackに招待されます。そこでメンターとの最初のオンボーディングが行われます。 あなたの目標や願望などを書き、それに関して考えているタスクを書き出してください。
 最初のヒント -目標を明確にしよう- 目標実現の最初の一歩は、具体的なアクションではなく計画です。計画にはゴールがあり、そのゴールとはみなさんの実現したい目標であるべきです。 そこで、このプログラムを始める前に目標やあなたの願望を書き出してみましょう。
  技術力を上げて新しいプロジェクトに参画したい。 未経験からエンジニアに転職したい。 サービスを作り、起業したい。 仕事の生産性を上げて、年収を上げたい。 仕事での人間関係を良くし、大きなプロジェクトを達成したい。 リモートワークに慣れて、海外に移住したい。  書き出した目標をメンターに共有しましょう。 家族や友人に言ったら笑われるようなことも含まれるかもしれませんが、メンターはそんなことはしないので安心してください。 あなたの目標はあなた自身であることをメンターは知っています。
@@ -38,10 +38,10 @@
     
     <item>
       <title>使用ツール</title>
-      <link>www.example.com/services/business-sales/</link>
+      <link>https://bitai.github.io/enta/public/services/business-sales/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
       
-      <guid>www.example.com/services/business-sales/</guid>
+      <guid>https://bitai.github.io/enta/public/services/business-sales/</guid>
       <description>私たちのメンタリングはSlackやAsanaなど、各種ツールを使いながら進んでいきます。またファイル共有にはGoogle Driveを推奨しています。
  Slack チャットツールです。メンターとのコミュニケーションは主にこちらから行なっていきます。 Asana タスク管理ツールです。タスクごとに細かい設定ができたり、ガントチャートが自動生成されるなど非常に便利です。有料ですが、メンティのみなさんは無料でお使いできます。 Google Drive ファイル共有のための優れたツールです。ファイルサーバとしてだけではなく、ドキュメントやパワポ資料作成などができます。  ツールを活用しよう。 エンジニアの素敵なところは「自分たちでツールを作ることができる」ことですが、だからと言って何でもかんでも自分で作っては、いくら時間(工数)があっても足らないでしょう。 また、エンジニアの美徳として「同じコードは2度書かない」というものがあります。誰かが書いてくれたコード(ソフトウェア)があるなら利用しない手はありません。 私たちがツールを使う目的は以下です。
  メンターとメンティのコミュニケーションを維持する。そのためにいつでも繋がれるようにする。 メンティのタスクをいつでも確認できるようにする。そのためにスマホアプリ対応されているものを使う。 メンティが生み出す膨大なファイルをいつでも確認できるようする。  コードレビューが必要な場合はgithubからソースコードレビューを追加料金で行います。 あなたの経験がまだ浅ければ、このオプションも検討すると良いでしょう。</description>
@@ -49,10 +49,10 @@
     
     <item>
       <title>料金</title>
-      <link>www.example.com/services/superannuation/</link>
+      <link>https://bitai.github.io/enta/public/services/superannuation/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:54 +1000</pubDate>
       
-      <guid>www.example.com/services/superannuation/</guid>
+      <guid>https://bitai.github.io/enta/public/services/superannuation/</guid>
       <description>私たちのメンターサービスは月3,000円から利用可能です。決済はPaypalを利用します。また、みなさんの目標達成を助けるため、様々なサービスを提供していきます。 例えば以下のようなものです。
 -オプション- ソースコードレビュー (7000円/月) あなたがまだ経験の浅いエンジニアであれば、現役エンジニアによるコードレビューサービスを受けられます。 エンジニアは歴3年以上で、いずれも厳しい基準をクリアした者のみです。 このコードレビューサービスを受けることで、現場で求められるソースコードの品質や技量を体験することができるでしょう。
 技術本レンタル (準備中) エンジニアが読む書籍は一般的に高価です。安くても2000円、高くて6000円もすることがあります。このオプションでは、そんな高価な技術本が誰でも定額で借りれるようにするサービスです。
@@ -61,10 +61,10 @@
     
     <item>
       <title>お問い合わせ</title>
-      <link>www.example.com/contact/</link>
+      <link>https://bitai.github.io/enta/public/contact/</link>
       <pubDate>Thu, 22 Feb 2018 17:01:34 +0700</pubDate>
       
-      <guid>www.example.com/contact/</guid>
+      <guid>https://bitai.github.io/enta/public/contact/</guid>
       <description>Twitter https://twitter.com/shiraponsu
 HP http://stacknsolutions.jp/contact
 Mail t_shirai(at)stacknsolutions.jp</description>
@@ -72,10 +72,10 @@ Mail t_shirai(at)stacknsolutions.jp</description>
     
     <item>
       <title>利用規約</title>
-      <link>www.example.com/about/</link>
+      <link>https://bitai.github.io/enta/public/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>www.example.com/about/</guid>
+      <guid>https://bitai.github.io/enta/public/about/</guid>
       <description>利用規約 この利用規約（以下，「本規約」といいます。）は，株式会社スタック＆ソリューションズ（以下，「当社」といいます。）がこのウェブサイト上で提供するサービス（以下，「本サービス」といいます。）の利用条件を定めるものです。登録ユーザーの皆さま（以下，「ユーザー」といいます。）には，本規約に従って，本サービスをご利用いただきます。
 第1条（適用） 本規約は，ユーザーと当社との間の本サービスの利用に関わる一切の関係に適用されるものとします。 当社は本サービスに関し，本規約のほか，ご利用にあたってのルール等，各種の定め（以下，「個別規定」といいます。）をすることがあります。これら個別規定はその名称のいかんに関わらず，本規約の一部を構成するものとします。 本規約の規定が前条の個別規定の規定と矛盾する場合には，個別規定において特段の定めなき限り，個別規定の規定が優先されるものとします。
 第2条（利用登録） 本サービスにおいては，登録希望者が本規約に同意の上，当社の定める方法によって利用登録を申請し，当社がこれを承認することによって，利用登録が完了するものとします。 当社は，利用登録の申請者に以下の事由があると判断した場合，利用登録の申請を承認しないことがあり，その理由については一切の開示義務を負わないものとします。 利用登録の申請に際して虚偽の事項を届け出た場合 本規約に違反したことがある者からの申請である場合 その他，当社が利用登録を相当でないと判断した場合

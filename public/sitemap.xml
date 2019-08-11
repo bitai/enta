@@ -3,61 +3,61 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>www.example.com/team/peter-van-eijk/</loc>
+    <loc>https://bitai.github.io/enta/public/team/peter-van-eijk/</loc>
     <lastmod>2018-11-19T10:47:58+10:00</lastmod>
   </url>
   
   <url>
-    <loc>www.example.com/</loc>
+    <loc>https://bitai.github.io/enta/public/</loc>
     <lastmod>2018-11-28T15:15:34+10:00</lastmod>
   </url>
   
   <url>
-    <loc>www.example.com/services/</loc>
+    <loc>https://bitai.github.io/enta/public/services/</loc>
     <lastmod>2018-11-28T15:15:34+10:00</lastmod>
   </url>
   
   <url>
-    <loc>www.example.com/services/mergers/</loc>
+    <loc>https://bitai.github.io/enta/public/services/mergers/</loc>
     <lastmod>2018-11-28T15:15:34+10:00</lastmod>
   </url>
   
   <url>
-    <loc>www.example.com/services/business-sales/</loc>
+    <loc>https://bitai.github.io/enta/public/services/business-sales/</loc>
     <lastmod>2018-11-28T15:15:26+10:00</lastmod>
   </url>
   
   <url>
-    <loc>www.example.com/services/superannuation/</loc>
+    <loc>https://bitai.github.io/enta/public/services/superannuation/</loc>
     <lastmod>2018-11-28T15:14:54+10:00</lastmod>
   </url>
   
   <url>
-    <loc>www.example.com/team/</loc>
+    <loc>https://bitai.github.io/enta/public/team/</loc>
     <lastmod>2018-11-19T10:47:58+10:00</lastmod>
   </url>
   
   <url>
-    <loc>www.example.com/contact/</loc>
+    <loc>https://bitai.github.io/enta/public/contact/</loc>
     <lastmod>2018-02-22T17:01:34+07:00</lastmod>
   </url>
   
   <url>
-    <loc>www.example.com/categories/</loc>
+    <loc>https://bitai.github.io/enta/public/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>www.example.com/tags/</loc>
+    <loc>https://bitai.github.io/enta/public/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>www.example.com/404/</loc>
+    <loc>https://bitai.github.io/enta/public/404/</loc>
   </url>
   
   <url>
-    <loc>www.example.com/about/</loc>
+    <loc>https://bitai.github.io/enta/public/about/</loc>
   </url>
   
 </urlset>

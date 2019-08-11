@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Services on ENTA | エンジニアの目標を達成しよう</title>
-    <link>www.example.com/services/</link>
+    <link>https://bitai.github.io/enta/public/services/</link>
     <description>Recent content in Services on ENTA | エンジニアの目標を達成しよう</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Wed, 28 Nov 2018 15:15:34 +1000</lastBuildDate>
     
-	<atom:link href="www.example.com/services/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bitai.github.io/enta/public/services/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>オンボーディング</title>
-      <link>www.example.com/services/mergers/</link>
+      <link>https://bitai.github.io/enta/public/services/mergers/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
       
-      <guid>www.example.com/services/mergers/</guid>
+      <guid>https://bitai.github.io/enta/public/services/mergers/</guid>
       <description>ENTAのメンタリングサービスに申し込むと、最初にSlackに招待されます。そこでメンターとの最初のオンボーディングが行われます。 あなたの目標や願望などを書き、それに関して考えているタスクを書き出してください。
 最初のヒント -目標を明確にしよう- 目標実現の最初の一歩は、具体的なアクションではなく計画です。計画にはゴールがあり、そのゴールとはみなさんの実現したい目標であるべきです。 そこで、このプログラムを始める前に目標やあなたの願望を書き出してみましょう。
  技術力を上げて新しいプロジェクトに参画したい。 未経験からエンジニアに転職したい。 サービスを作り、起業したい。 仕事の生産性を上げて、年収を上げたい。 仕事での人間関係を良くし、大きなプロジェクトを達成したい。 リモートワークに慣れて、海外に移住したい。  書き出した目標をメンターに共有しましょう。 家族や友人に言ったら笑われるようなことも含まれるかもしれませんが、メンターはそんなことはしないので安心してください。 あなたの目標はあなた自身であることをメンターは知っています。
@@ -29,10 +29,10 @@
     
     <item>
       <title>使用ツール</title>
-      <link>www.example.com/services/business-sales/</link>
+      <link>https://bitai.github.io/enta/public/services/business-sales/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
       
-      <guid>www.example.com/services/business-sales/</guid>
+      <guid>https://bitai.github.io/enta/public/services/business-sales/</guid>
       <description>私たちのメンタリングはSlackやAsanaなど、各種ツールを使いながら進んでいきます。またファイル共有にはGoogle Driveを推奨しています。
  Slack チャットツールです。メンターとのコミュニケーションは主にこちらから行なっていきます。 Asana タスク管理ツールです。タスクごとに細かい設定ができたり、ガントチャートが自動生成されるなど非常に便利です。有料ですが、メンティのみなさんは無料でお使いできます。 Google Drive ファイル共有のための優れたツールです。ファイルサーバとしてだけではなく、ドキュメントやパワポ資料作成などができます。  ツールを活用しよう。 エンジニアの素敵なところは「自分たちでツールを作ることができる」ことですが、だからと言って何でもかんでも自分で作っては、いくら時間(工数)があっても足らないでしょう。 また、エンジニアの美徳として「同じコードは2度書かない」というものがあります。誰かが書いてくれたコード(ソフトウェア)があるなら利用しない手はありません。 私たちがツールを使う目的は以下です。
  メンターとメンティのコミュニケーションを維持する。そのためにいつでも繋がれるようにする。 メンティのタスクをいつでも確認できるようにする。そのためにスマホアプリ対応されているものを使う。 メンティが生み出す膨大なファイルをいつでも確認できるようする。  コードレビューが必要な場合はgithubからソースコードレビューを追加料金で行います。 あなたの経験がまだ浅ければ、このオプションも検討すると良いでしょう。</description>
@@ -40,10 +40,10 @@
     
     <item>
       <title>料金</title>
-      <link>www.example.com/services/superannuation/</link>
+      <link>https://bitai.github.io/enta/public/services/superannuation/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:54 +1000</pubDate>
       
-      <guid>www.example.com/services/superannuation/</guid>
+      <guid>https://bitai.github.io/enta/public/services/superannuation/</guid>
       <description>私たちのメンターサービスは月3,000円から利用可能です。決済はPaypalを利用します。また、みなさんの目標達成を助けるため、様々なサービスを提供していきます。 例えば以下のようなものです。
 -オプション- ソースコードレビュー (7000円/月) あなたがまだ経験の浅いエンジニアであれば、現役エンジニアによるコードレビューサービスを受けられます。 エンジニアは歴3年以上で、いずれも厳しい基準をクリアした者のみです。 このコードレビューサービスを受けることで、現場で求められるソースコードの品質や技量を体験することができるでしょう。
 技術本レンタル (準備中) エンジニアが読む書籍は一般的に高価です。安くても2000円、高くて6000円もすることがあります。このオプションでは、そんな高価な技術本が誰でも定額で借りれるようにするサービスです。

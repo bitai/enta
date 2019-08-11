@@ -1,4 +1,4 @@
-baseURL = "www.example.com"
+baseURL = "https://bitai.github.io/enta/public"
 languageCode = "ja"
 title = "ENTA | エンジニアの目標を達成しよう"
 themesDir = "./themes"

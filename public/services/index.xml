@@ -1,76 +1,53 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Services on Hugo Serif Theme</title>
+    <title>Services on ENTA | エンジニアの目標を達成しよう</title>
     <link>www.example.com/services/</link>
-    <description>Recent content in Services on Hugo Serif Theme</description>
+    <description>Recent content in Services on ENTA | エンジニアの目標を達成しよう</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>ja</language>
     <lastBuildDate>Wed, 28 Nov 2018 15:15:34 +1000</lastBuildDate>
     
 	<atom:link href="www.example.com/services/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Accounting</title>
-      <link>www.example.com/services/accounting/</link>
-      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
-      
-      <guid>www.example.com/services/accounting/</guid>
-      <description>Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
-Ne verba patulosque numen vix libet Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis. Ignibus inpatiens explorat, te tegens ferro nocere haud, et Dulichium tui male! Quo sed fuit flexit et hic die solido, gloria?
- Cum det dixit Parcarum qui spemque est Exit ex huic Quod consiste agitataque claustraque vicina videt lacertis Loquor videt Ardua non igne caelesti coniugis cognovi diversorum Per nunc pariterque saeva vindicet  Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco vati dabant deus.</description>
-    </item>
-    
-    <item>
-      <title>Tax Preperation</title>
-      <link>www.example.com/services/tax-preperation/</link>
-      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
-      
-      <guid>www.example.com/services/tax-preperation/</guid>
-      <description>Lorem markdownum Achaica revolutaque amore, penitus puppes nec furit, clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem Cretaeas enim ipse pectora excusat candentibus fertur? Furtiva Orontes Erysicthona dona, est per Achille viridi draconis cultis mota milia.
- Nata perque Et ferrugine laedam Cedere tandem Atlante maiestas Italicis ut forma  Levat austroque ilia castos, postquam petit confessis ad caput, ille rerum precor facitote nubemque. Potuit Celadon Martem?</description>
-    </item>
-    
-    <item>
-      <title>Mergers</title>
+      <title>オンボーディング</title>
       <link>www.example.com/services/mergers/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
       
       <guid>www.example.com/services/mergers/</guid>
-      <description>Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
-Ne verba patulosque numen vix libet Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis. Ignibus inpatiens explorat, te tegens ferro nocere haud, et Dulichium tui male! Quo sed fuit flexit et hic die solido, gloria?
- Cum det dixit Parcarum qui spemque est Exit ex huic Quod consiste agitataque claustraque vicina videt lacertis Loquor videt Ardua non igne caelesti coniugis cognovi diversorum Per nunc pariterque saeva vindicet  Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco vati dabant deus.</description>
+      <description>ENTAのメンタリングサービスに申し込むと、最初にSlackに招待されます。そこでメンターとの最初のオンボーディングが行われます。 あなたの目標や願望などを書き、それに関して考えているタスクを書き出してください。
+最初のヒント -目標を明確にしよう- 目標実現の最初の一歩は、具体的なアクションではなく計画です。計画にはゴールがあり、そのゴールとはみなさんの実現したい目標であるべきです。 そこで、このプログラムを始める前に目標やあなたの願望を書き出してみましょう。
+ 技術力を上げて新しいプロジェクトに参画したい。 未経験からエンジニアに転職したい。 サービスを作り、起業したい。 仕事の生産性を上げて、年収を上げたい。 仕事での人間関係を良くし、大きなプロジェクトを達成したい。 リモートワークに慣れて、海外に移住したい。  書き出した目標をメンターに共有しましょう。 家族や友人に言ったら笑われるようなことも含まれるかもしれませんが、メンターはそんなことはしないので安心してください。 あなたの目標はあなた自身であることをメンターは知っています。
+第二のヒント -タスク会議- 目標を設定したらタスク会議、つまりアクションプランを練りましょう。あなたの目標が大きければ大きいほど、目標の実現には長い時間がかかるかもしれません。 現実的にそうであるかは置いておいて、ここでは目標実現のために1ヶ月ごと、1週間ごとの達成目標を決めていきます。 1週間という粒度が心配であれば、3日とか6日とかの単位でも問題ありません。
+ SREとしてスキルを上げるため、24日までにCI本を一冊読み終える。 開発メンバーとの仲を深めるため、勉強会を開催する。そのために今週は会場確保と企画を出す。 新規サービス開発のために来週までにペーパープロトタイピングを行う。 今週はLTネタのためにgithubでOSSのPRを出してmergeされる。 運営中のサイトの検索ランキングを改善するために、キーワード調査を行う。 自室で仕事ができるように、モニター類を買い揃え、セットアップを行う。  アクションプランが明確になったら期限を決めてタスク管理ツールに設定し、毎日達成度を確認していきましょう。 何がボトルネックになっているか、何が効果的であったかを日々みていく習慣をつけていきます。
+第三のヒント -実行していこう- 重要なことは「計画を作ったら終わりではない」ということです。計画を眺めて満足をするのではなく、実際の行動に起こしていきましょう。 時にはタスクをうまくこなせない時もあるでしょう。また、思った以上に良い成果が出ることもあります。 タスクを完了したら、メンターと一緒にレビューを行いましょう。 そうして、次回のタスク設定に反映していくことで、目標達成に近づいていきます。
+タスクとの向き合い方が本当に重要です。メンターと一緒に、どのようにタスクと向き合うかを決めていきましょう。
+ 週に1回、行動してタスクを更新していく。 タスクができないことがある。その場合は「やらない」「期限を変える」のいずれかを選択する。 ゾーンに入り、タスクが想定より早く終わり、やることがなくなってしまったらタスクを再設定する。  ルールはなぁなぁにせず、遵守しましょう。ルールがライフワークにそぐわない場合は、メンターに相談してください。</description>
     </item>
     
     <item>
-      <title>Business Sales</title>
+      <title>使用ツール</title>
       <link>www.example.com/services/business-sales/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
       
       <guid>www.example.com/services/business-sales/</guid>
-      <description>Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia vixque dixit negari ullis stamina: trahit. Tanta rictus in mitia causa, Phoebo nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato cadet! Ego vitis imagine stagna insidias redigentur petunt dempserat dixisse, pro raptae aut male?
- Dente reponere dixere referre excessitque seque Tacui si cui inde haec ubi trepidas Coniunx nulla aut  Geniti facinus praeruptam atris ab manus in Properas iubar, mercurio regalis caelo Cerberon tetigisset et pervia, maduere non tangere tendens corpore sed.</description>
+      <description>私たちのメンタリングはSlackやAsanaなど、各種ツールを使いながら進んでいきます。またファイル共有にはGoogle Driveを推奨しています。
+ Slack チャットツールです。メンターとのコミュニケーションは主にこちらから行なっていきます。 Asana タスク管理ツールです。タスクごとに細かい設定ができたり、ガントチャートが自動生成されるなど非常に便利です。有料ですが、メンティのみなさんは無料でお使いできます。 Google Drive ファイル共有のための優れたツールです。ファイルサーバとしてだけではなく、ドキュメントやパワポ資料作成などができます。  ツールを活用しよう。 エンジニアの素敵なところは「自分たちでツールを作ることができる」ことですが、だからと言って何でもかんでも自分で作っては、いくら時間(工数)があっても足らないでしょう。 また、エンジニアの美徳として「同じコードは2度書かない」というものがあります。誰かが書いてくれたコード(ソフトウェア)があるなら利用しない手はありません。 私たちがツールを使う目的は以下です。
+ メンターとメンティのコミュニケーションを維持する。そのためにいつでも繋がれるようにする。 メンティのタスクをいつでも確認できるようにする。そのためにスマホアプリ対応されているものを使う。 メンティが生み出す膨大なファイルをいつでも確認できるようする。  コードレビューが必要な場合はgithubからソースコードレビューを追加料金で行います。 あなたの経験がまだ浅ければ、このオプションも検討すると良いでしょう。</description>
     </item>
     
     <item>
-      <title>Superannuation</title>
+      <title>料金</title>
       <link>www.example.com/services/superannuation/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:54 +1000</pubDate>
       
       <guid>www.example.com/services/superannuation/</guid>
-      <description>Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
-Ne verba patulosque numen vix libet Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis. Ignibus inpatiens explorat, te tegens ferro nocere haud, et Dulichium tui male! Quo sed fuit flexit et hic die solido, gloria?
- Cum det dixit Parcarum qui spemque est Exit ex huic Quod consiste agitataque claustraque vicina videt lacertis Loquor videt Ardua non igne caelesti coniugis cognovi diversorum Per nunc pariterque saeva vindicet  Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco vati dabant deus.</description>
-    </item>
-    
-    <item>
-      <title>Business Advisory</title>
-      <link>www.example.com/services/business-advisory/</link>
-      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
-      
-      <guid>www.example.com/services/business-advisory/</guid>
-      <description>Lorem markdownum, dictis umbrosum dextrum, Lelegeia quamquam distantes pares ignisque quaerit dederat gemino Aethiopesque caelo ulciscitur est. Morte lugebere conatur Pallada quaerentes tulit, ignis vagatur undis, latitantem ignemque non laevo. Terras seu favoni tectas movit hunc motuque damno tutoque quattuor. Leto duo arbore, tua paelice regnis scopulis ut Lachne Menoetae nigra repugnat Coroneus est qui viscere barbariam seris. Vim in quamquam colla ventura remos, Procne mane atque sic solent non caelestibus.</description>
+      <description>私たちのメンターサービスは月3,000円から利用可能です。決済はPaypalを利用します。また、みなさんの目標達成を助けるため、様々なサービスを提供していきます。 例えば以下のようなものです。
+-オプション- ソースコードレビュー (7000円/月) あなたがまだ経験の浅いエンジニアであれば、現役エンジニアによるコードレビューサービスを受けられます。 エンジニアは歴3年以上で、いずれも厳しい基準をクリアした者のみです。 このコードレビューサービスを受けることで、現場で求められるソースコードの品質や技量を体験することができるでしょう。
+技術本レンタル (準備中) エンジニアが読む書籍は一般的に高価です。安くても2000円、高くて6000円もすることがあります。このオプションでは、そんな高価な技術本が誰でも定額で借りれるようにするサービスです。
+随時追加予定 サービスは順次増えていきます。ためにこのページを見にきていただければ、私たちの苦悩が見えてくるでしょう。サービスの準備ステータスはTwitterから確認してください。https://twitter.com/shiraponsu</description>
     </item>
     
   </channel>

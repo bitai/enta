@@ -1,116 +1,95 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Hugo Serif Theme</title>
+    <title>Home on ENTA | エンジニアの目標を達成しよう</title>
     <link>www.example.com/</link>
-    <description>Recent content in Home on Hugo Serif Theme</description>
+    <description>Recent content in Home on ENTA | エンジニアの目標を達成しよう</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>ja</language>
     <lastBuildDate>Wed, 28 Nov 2018 15:15:34 +1000</lastBuildDate>
     
 	<atom:link href="www.example.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Peter Van Eijk</title>
+      <title>Tomoya Shirai</title>
       <link>www.example.com/team/peter-van-eijk/</link>
       <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
       
       <guid>www.example.com/team/peter-van-eijk/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      <description>株式会社スタック＆ソリューションズ代表取締役。横浜国立大学工学部にて情報工学を専攻後、独立。フリーランスとしてうるるやfreee、homesなどの有名ベンチャーでのプロジェクトに従事する傍ら、クラウドワーカーとして各種クラウドソーシングで活動し、2016年、会員数100万人を超えるクラウドワークスで最も実績のある100名のワーカーに選出。2017年、「誰もが高度な技術で問題解決ができる社会を実現する」ためにスタック＆ソリューションズを起業。</description>
     </item>
     
     <item>
-      <title>Accounting</title>
-      <link>www.example.com/services/accounting/</link>
-      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
-      
-      <guid>www.example.com/services/accounting/</guid>
-      <description>Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
-Ne verba patulosque numen vix libet Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis. Ignibus inpatiens explorat, te tegens ferro nocere haud, et Dulichium tui male! Quo sed fuit flexit et hic die solido, gloria?
- Cum det dixit Parcarum qui spemque est Exit ex huic Quod consiste agitataque claustraque vicina videt lacertis Loquor videt Ardua non igne caelesti coniugis cognovi diversorum Per nunc pariterque saeva vindicet  Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco vati dabant deus.</description>
-    </item>
-    
-    <item>
-      <title>Sage Kirk</title>
-      <link>www.example.com/team/sage-kirk/</link>
-      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
-      
-      <guid>www.example.com/team/sage-kirk/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.</description>
-    </item>
-    
-    <item>
-      <title>Tax Preperation</title>
-      <link>www.example.com/services/tax-preperation/</link>
-      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
-      
-      <guid>www.example.com/services/tax-preperation/</guid>
-      <description>Lorem markdownum Achaica revolutaque amore, penitus puppes nec furit, clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem Cretaeas enim ipse pectora excusat candentibus fertur? Furtiva Orontes Erysicthona dona, est per Achille viridi draconis cultis mota milia.
- Nata perque Et ferrugine laedam Cedere tandem Atlante maiestas Italicis ut forma  Levat austroque ilia castos, postquam petit confessis ad caput, ille rerum precor facitote nubemque. Potuit Celadon Martem?</description>
-    </item>
-    
-    <item>
-      <title>Mergers</title>
+      <title>オンボーディング</title>
       <link>www.example.com/services/mergers/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
       
       <guid>www.example.com/services/mergers/</guid>
-      <description>Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
-Ne verba patulosque numen vix libet Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis. Ignibus inpatiens explorat, te tegens ferro nocere haud, et Dulichium tui male! Quo sed fuit flexit et hic die solido, gloria?
- Cum det dixit Parcarum qui spemque est Exit ex huic Quod consiste agitataque claustraque vicina videt lacertis Loquor videt Ardua non igne caelesti coniugis cognovi diversorum Per nunc pariterque saeva vindicet  Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco vati dabant deus.</description>
+      <description>ENTAのメンタリングサービスに申し込むと、最初にSlackに招待されます。そこでメンターとの最初のオンボーディングが行われます。 あなたの目標や願望などを書き、それに関して考えているタスクを書き出してください。
+最初のヒント -目標を明確にしよう- 目標実現の最初の一歩は、具体的なアクションではなく計画です。計画にはゴールがあり、そのゴールとはみなさんの実現したい目標であるべきです。 そこで、このプログラムを始める前に目標やあなたの願望を書き出してみましょう。
+ 技術力を上げて新しいプロジェクトに参画したい。 未経験からエンジニアに転職したい。 サービスを作り、起業したい。 仕事の生産性を上げて、年収を上げたい。 仕事での人間関係を良くし、大きなプロジェクトを達成したい。 リモートワークに慣れて、海外に移住したい。  書き出した目標をメンターに共有しましょう。 家族や友人に言ったら笑われるようなことも含まれるかもしれませんが、メンターはそんなことはしないので安心してください。 あなたの目標はあなた自身であることをメンターは知っています。
+第二のヒント -タスク会議- 目標を設定したらタスク会議、つまりアクションプランを練りましょう。あなたの目標が大きければ大きいほど、目標の実現には長い時間がかかるかもしれません。 現実的にそうであるかは置いておいて、ここでは目標実現のために1ヶ月ごと、1週間ごとの達成目標を決めていきます。 1週間という粒度が心配であれば、3日とか6日とかの単位でも問題ありません。
+ SREとしてスキルを上げるため、24日までにCI本を一冊読み終える。 開発メンバーとの仲を深めるため、勉強会を開催する。そのために今週は会場確保と企画を出す。 新規サービス開発のために来週までにペーパープロトタイピングを行う。 今週はLTネタのためにgithubでOSSのPRを出してmergeされる。 運営中のサイトの検索ランキングを改善するために、キーワード調査を行う。 自室で仕事ができるように、モニター類を買い揃え、セットアップを行う。  アクションプランが明確になったら期限を決めてタスク管理ツールに設定し、毎日達成度を確認していきましょう。 何がボトルネックになっているか、何が効果的であったかを日々みていく習慣をつけていきます。
+第三のヒント -実行していこう- 重要なことは「計画を作ったら終わりではない」ということです。計画を眺めて満足をするのではなく、実際の行動に起こしていきましょう。 時にはタスクをうまくこなせない時もあるでしょう。また、思った以上に良い成果が出ることもあります。 タスクを完了したら、メンターと一緒にレビューを行いましょう。 そうして、次回のタスク設定に反映していくことで、目標達成に近づいていきます。
+タスクとの向き合い方が本当に重要です。メンターと一緒に、どのようにタスクと向き合うかを決めていきましょう。
+ 週に1回、行動してタスクを更新していく。 タスクができないことがある。その場合は「やらない」「期限を変える」のいずれかを選択する。 ゾーンに入り、タスクが想定より早く終わり、やることがなくなってしまったらタスクを再設定する。  ルールはなぁなぁにせず、遵守しましょう。ルールがライフワークにそぐわない場合は、メンターに相談してください。</description>
     </item>
     
     <item>
-      <title>Business Sales</title>
+      <title>使用ツール</title>
       <link>www.example.com/services/business-sales/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
       
       <guid>www.example.com/services/business-sales/</guid>
-      <description>Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia vixque dixit negari ullis stamina: trahit. Tanta rictus in mitia causa, Phoebo nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato cadet! Ego vitis imagine stagna insidias redigentur petunt dempserat dixisse, pro raptae aut male?
- Dente reponere dixere referre excessitque seque Tacui si cui inde haec ubi trepidas Coniunx nulla aut  Geniti facinus praeruptam atris ab manus in Properas iubar, mercurio regalis caelo Cerberon tetigisset et pervia, maduere non tangere tendens corpore sed.</description>
+      <description>私たちのメンタリングはSlackやAsanaなど、各種ツールを使いながら進んでいきます。またファイル共有にはGoogle Driveを推奨しています。
+ Slack チャットツールです。メンターとのコミュニケーションは主にこちらから行なっていきます。 Asana タスク管理ツールです。タスクごとに細かい設定ができたり、ガントチャートが自動生成されるなど非常に便利です。有料ですが、メンティのみなさんは無料でお使いできます。 Google Drive ファイル共有のための優れたツールです。ファイルサーバとしてだけではなく、ドキュメントやパワポ資料作成などができます。  ツールを活用しよう。 エンジニアの素敵なところは「自分たちでツールを作ることができる」ことですが、だからと言って何でもかんでも自分で作っては、いくら時間(工数)があっても足らないでしょう。 また、エンジニアの美徳として「同じコードは2度書かない」というものがあります。誰かが書いてくれたコード(ソフトウェア)があるなら利用しない手はありません。 私たちがツールを使う目的は以下です。
+ メンターとメンティのコミュニケーションを維持する。そのためにいつでも繋がれるようにする。 メンティのタスクをいつでも確認できるようにする。そのためにスマホアプリ対応されているものを使う。 メンティが生み出す膨大なファイルをいつでも確認できるようする。  コードレビューが必要な場合はgithubからソースコードレビューを追加料金で行います。 あなたの経験がまだ浅ければ、このオプションも検討すると良いでしょう。</description>
     </item>
     
     <item>
-      <title>Superannuation</title>
+      <title>料金</title>
       <link>www.example.com/services/superannuation/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:54 +1000</pubDate>
       
       <guid>www.example.com/services/superannuation/</guid>
-      <description>Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
-Ne verba patulosque numen vix libet Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis. Ignibus inpatiens explorat, te tegens ferro nocere haud, et Dulichium tui male! Quo sed fuit flexit et hic die solido, gloria?
- Cum det dixit Parcarum qui spemque est Exit ex huic Quod consiste agitataque claustraque vicina videt lacertis Loquor videt Ardua non igne caelesti coniugis cognovi diversorum Per nunc pariterque saeva vindicet  Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco vati dabant deus.</description>
+      <description>私たちのメンターサービスは月3,000円から利用可能です。決済はPaypalを利用します。また、みなさんの目標達成を助けるため、様々なサービスを提供していきます。 例えば以下のようなものです。
+-オプション- ソースコードレビュー (7000円/月) あなたがまだ経験の浅いエンジニアであれば、現役エンジニアによるコードレビューサービスを受けられます。 エンジニアは歴3年以上で、いずれも厳しい基準をクリアした者のみです。 このコードレビューサービスを受けることで、現場で求められるソースコードの品質や技量を体験することができるでしょう。
+技術本レンタル (準備中) エンジニアが読む書籍は一般的に高価です。安くても2000円、高くて6000円もすることがあります。このオプションでは、そんな高価な技術本が誰でも定額で借りれるようにするサービスです。
+随時追加予定 サービスは順次増えていきます。ためにこのページを見にきていただければ、私たちの苦悩が見えてくるでしょう。サービスの準備ステータスはTwitterから確認してください。https://twitter.com/shiraponsu</description>
     </item>
     
     <item>
-      <title>Business Advisory</title>
-      <link>www.example.com/services/business-advisory/</link>
-      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
-      
-      <guid>www.example.com/services/business-advisory/</guid>
-      <description>Lorem markdownum, dictis umbrosum dextrum, Lelegeia quamquam distantes pares ignisque quaerit dederat gemino Aethiopesque caelo ulciscitur est. Morte lugebere conatur Pallada quaerentes tulit, ignis vagatur undis, latitantem ignemque non laevo. Terras seu favoni tectas movit hunc motuque damno tutoque quattuor. Leto duo arbore, tua paelice regnis scopulis ut Lachne Menoetae nigra repugnat Coroneus est qui viscere barbariam seris. Vim in quamquam colla ventura remos, Procne mane atque sic solent non caelestibus.</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
+      <title>お問い合わせ</title>
       <link>www.example.com/contact/</link>
       <pubDate>Thu, 22 Feb 2018 17:01:34 +0700</pubDate>
       
       <guid>www.example.com/contact/</guid>
-      <description>Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
-   Day Opening Hours     Tuesday 8:30am - 5:00pm   Wednesday 8:30am - 5:00pm   Thursday 8:30am - 5:00pm   Friday 8:30am - 5:00pm   Saturday 10:am - 4:00pm   Saturday Closed    </description>
+      <description>Twitter https://twitter.com/shiraponsu
+HP http://stacknsolutions.jp/contact
+Mail t_shirai(at)stacknsolutions.jp</description>
     </item>
     
     <item>
-      <title>About</title>
+      <title>利用規約</title>
       <link>www.example.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>www.example.com/about/</guid>
-      <description>Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
-Ne verba patulosque numen vix libet Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis. Ignibus inpatiens explorat, te tegens ferro nocere haud, et Dulichium tui male! Quo sed fuit flexit et hic die solido, gloria?
- Cum det dixit Parcarum qui spemque est Exit ex huic Quod consiste agitataque claustraque vicina videt lacertis Loquor videt Ardua non igne caelesti coniugis cognovi diversorum Per nunc pariterque saeva vindicet  Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco vati dabant deus.</description>
+      <description>利用規約 この利用規約（以下，「本規約」といいます。）は，株式会社スタック＆ソリューションズ（以下，「当社」といいます。）がこのウェブサイト上で提供するサービス（以下，「本サービス」といいます。）の利用条件を定めるものです。登録ユーザーの皆さま（以下，「ユーザー」といいます。）には，本規約に従って，本サービスをご利用いただきます。
+第1条（適用） 本規約は，ユーザーと当社との間の本サービスの利用に関わる一切の関係に適用されるものとします。 当社は本サービスに関し，本規約のほか，ご利用にあたってのルール等，各種の定め（以下，「個別規定」といいます。）をすることがあります。これら個別規定はその名称のいかんに関わらず，本規約の一部を構成するものとします。 本規約の規定が前条の個別規定の規定と矛盾する場合には，個別規定において特段の定めなき限り，個別規定の規定が優先されるものとします。
+第2条（利用登録） 本サービスにおいては，登録希望者が本規約に同意の上，当社の定める方法によって利用登録を申請し，当社がこれを承認することによって，利用登録が完了するものとします。 当社は，利用登録の申請者に以下の事由があると判断した場合，利用登録の申請を承認しないことがあり，その理由については一切の開示義務を負わないものとします。 利用登録の申請に際して虚偽の事項を届け出た場合 本規約に違反したことがある者からの申請である場合 その他，当社が利用登録を相当でないと判断した場合
+第3条（ユーザーIDおよびパスワードの管理） ユーザーは，自己の責任において，本サービスのユーザーIDおよびパスワードを適切に管理するものとします。 ユーザーは，いかなる場合にも，ユーザーIDおよびパスワードを第三者に譲渡または貸与し，もしくは第三者と共用することはできません。当社は，ユーザーIDとパスワードの組み合わせが登録情報と一致してログインされた場合には，そのユーザーIDを登録しているユーザー自身による利用とみなします。 ユーザーID及びパスワードが第三者によって使用されたことによって生じた損害は，当社に故意又は重大な過失がある場合を除き，当社は一切の責任を負わないものとします。
+第4条（利用料金および支払方法） ユーザーは，本サービスの有料部分の対価として，当社が別途定め，本ウェブサイトに表示する利用料金を，当社が指定する方法により支払うものとします。 ユーザーが利用料金の支払を遅滞した場合には，ユーザーは年14．6％の割合による遅延損害金を支払うものとします。
+第5条（禁止事項） ユーザーは，本サービスの利用にあたり，以下の行為をしてはなりません。
+ 法令または公序良俗に違反する行為 犯罪行為に関連する行為 本サービスの内容等，本サービスに含まれる著作権，商標権ほか知的財産権を侵害する行為 当社，ほかのユーザー，またはその他第三者のサーバーまたはネットワークの機能を破壊したり，妨害したりする行為 本サービスによって得られた情報を商業的に利用する行為 当社のサービスの運営を妨害するおそれのある行為 不正アクセスをし，またはこれを試みる行為 他のユーザーに関する個人情報等を収集または蓄積する行為 不正な目的を持って本サービスを利用する行為 本サービスの他のユーザーまたはその他の第三者に不利益，損害，不快感を与える行為 他のユーザーに成りすます行為 当社が許諾しない本サービス上での宣伝，広告，勧誘，または営業行為 面識のない異性との出会いを目的とした行為 当社のサービスに関連して，反社会的勢力に対して直接または間接に利益を供与する行為 その他，当社が不適切と判断する行為  第6条（本サービスの提供の停止等） 当社は，以下のいずれかの事由があると判断した場合，ユーザーに事前に通知することなく本サービスの全部または一部の提供を停止または中断することができるものとします。
+ 本サービスにかかるコンピュータシステムの保守点検または更新を行う場合 地震，落雷，火災，停電または天災などの不可抗力により，本サービスの提供が困難となった場合 コンピュータまたは通信回線等が事故により停止した場合 その他，当社が本サービスの提供が困難と判断した場合  当社は，本サービスの提供の停止または中断により，ユーザーまたは第三者が被ったいかなる不利益または損害についても，一切の責任を負わないものとします。
+第7条（利用制限および登録抹消） 当社は，ユーザーが以下のいずれかに該当する場合には，事前の通知なく，ユーザーに対して，本サービスの全部もしくは一部の利用を制限し，またはユーザーとしての登録を抹消することができるものとします。
+ 本規約のいずれかの条項に違反した場合 登録事項に虚偽の事実があることが判明した場合 料金等の支払債務の不履行があった場合 当社からの連絡に対し，一定期間返答がない場合 本サービスについて，最終の利用から一定期間利用がない場合 その他，当社が本サービスの利用を適当でないと判断した場合  当社は，本条に基づき当社が行った行為によりユーザーに生じた損害について，一切の責任を負いません。
+第8条（退会） ユーザーは，当社の定める退会手続により，本サービスから退会できるものとします。
+第9条（保証の否認および免責事項） 当社は，本サービスに事実上または法律上の瑕疵（安全性，信頼性，正確性，完全性，有効性，特定の目的への適合性，セキュリティなどに関する欠陥，エラーやバグ，権利侵害などを含みます。）がないことを明示的にも黙示的にも保証しておりません。 当社は，本サービスに起因してユーザーに生じたあらゆる損害について一切の責任を負いません。ただし，本サービスに関する当社とユーザーとの間の契約（本規約を含みます。）が消費者契約法に定める消費者契約となる場合，この免責規定は適用されません。 前項ただし書に定める場合であっても，当社は，当社の過失（重過失を除きます。）による債務不履行または不法行為によりユーザーに生じた損害のうち特別な事情から生じた損害（当社またはユーザーが損害発生につき予見し，または予見し得た場合を含みます。）について一切の責任を負いません。また，当社の過失（重過失を除きます。）による債務不履行または不法行為によりユーザーに生じた損害の賠償は，ユーザーから当該損害が発生した月に受領した利用料の額を上限とします。 当社は，本サービスに関して，ユーザーと他のユーザーまたは第三者との間において生じた取引，連絡または紛争等について一切責任を負いません。
+第10条（サービス内容の変更等） 当社は，ユーザーに通知することなく，本サービスの内容を変更しまたは本サービスの提供を中止することができるものとし，これによってユーザーに生じた損害について一切の責任を負いません。
+第11条（利用規約の変更） 当社は，必要と判断した場合には，ユーザーに通知することなくいつでも本規約を変更することができるものとします。なお，本規約の変更後，本サービスの利用を開始した場合には，当該ユーザーは変更後の規約に同意したものとみなします。</description>
     </item>
     
   </channel>

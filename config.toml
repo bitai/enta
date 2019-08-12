@@ -12,15 +12,15 @@ theme = "hugo-serif-theme"
   [params.logo]
     mobile = "images/logo_enta.png"
     standard  = "images/logo_enta.png"
-    alt = "ENTA|エンジニアのための目標管理メタリングサービス"
+    alt = "ENTA|エンジニアのための目標管理メンタリングサービス"
 
   [params.homepage_meta_tags]
     meta_description = "Serif is a modern business theme for Hugo. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated."
-    meta_og_title = "ENTA|エンジニアのための目標管理メタリングサービス"
+    meta_og_title = "ENTA|エンジニアのための目標管理メンタリングサービス"
     meta_og_type = "website"
     meta_og_url = "https://hugo-serif.netlify.com"
     meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-serif-theme/master/images/tn.png"
-    meta_og_description = "Serif is a modern business theme for Hugo. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated."
+    meta_og_description = "ENTAはエンジニアのためのメンタリングサービスを提供しています。月3000円から、あなたの目標達成のためにタスク管理やスケジュール管理をお手伝いします。また様々なアドバイスも実施しています。"
     meta_twitter_card = "summary"
     meta_twitter_site = "@zerostaticio"
     meta_twitter_creator = "@zerostaticio"
